@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\University Managment System.props" />
+</Project>
