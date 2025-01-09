@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\universty\\University Managment System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\universty\\University Managment System\\University Managment System\\Migrations\\20250109143229_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:University Managment System\\Migrations\\20250109143229_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F23F4-106E-48EE-9F7F-DE20DEFA223D}|University Managment System\\University Managment System.csproj|d:\\universty\\university managment system\\university managment system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D3F23F4-106E-48EE-9F7F-DE20DEFA223D}|University Managment System\\University Managment System.csproj|solutionrelative:university managment system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F23F4-106E-48EE-9F7F-DE20DEFA223D}|University Managment System\\University Managment System.csproj|d:\\universty\\university managment system\\university managment system\\models\\unicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3F23F4-106E-48EE-9F7F-DE20DEFA223D}|University Managment System\\University Managment System.csproj|solutionrelative:university managment system\\models\\unicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3F23F4-106E-48EE-9F7F-DE20DEFA223D}|University Managment System\\University Managment System.csproj|d:\\universty\\university managment system\\university managment system\\models\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3F23F4-106E-48EE-9F7F-DE20DEFA223D}|University Managment System\\University Managment System.csproj|solutionrelative:university managment system\\models\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D3F23F4-106E-48EE-9F7F-DE20DEFA223D}|University Managment System\\University Managment System.csproj|d:\\universty\\university managment system\\university managment system\\controllers\\teachingassistantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D3F23F4-106E-48EE-9F7F-DE20DEFA223D}|University Managment System\\University Managment System.csproj|solutionrelative:university managment system\\controllers\\teachingassistantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,19 +63,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20250109143229_3.cs",
+              "DocumentMoniker": "D:\\universty\\University Managment System\\University Managment System\\Migrations\\20250109143229_3.cs",
+              "RelativeDocumentMoniker": "University Managment System\\Migrations\\20250109143229_3.cs",
+              "ToolTip": "D:\\universty\\University Managment System\\University Managment System\\Migrations\\20250109143229_3.cs",
+              "RelativeToolTip": "University Managment System\\Migrations\\20250109143229_3.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAQwDIBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:32:29.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\universty\\University Managment System\\University Managment System\\appsettings.json",
+              "RelativeDocumentMoniker": "University Managment System\\appsettings.json",
+              "ToolTip": "D:\\universty\\University Managment System\\University Managment System\\appsettings.json",
+              "RelativeToolTip": "University Managment System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-09T14:31:21.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UniContext.cs",
+              "DocumentMoniker": "D:\\universty\\University Managment System\\University Managment System\\Models\\UniContext.cs",
+              "RelativeDocumentMoniker": "University Managment System\\Models\\UniContext.cs",
+              "ToolTip": "D:\\universty\\University Managment System\\University Managment System\\Models\\UniContext.cs",
+              "RelativeToolTip": "University Managment System\\Models\\UniContext.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:21:46.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "D:\\universty\\University Managment System\\University Managment System\\Models\\Administrator.cs",
+              "RelativeDocumentMoniker": "University Managment System\\Models\\Administrator.cs",
+              "ToolTip": "D:\\universty\\University Managment System\\University Managment System\\Models\\Administrator.cs",
+              "RelativeToolTip": "University Managment System\\Models\\Administrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:20:50.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TeachingAssistantsController.cs",
               "DocumentMoniker": "D:\\universty\\University Managment System\\University Managment System\\Controllers\\TeachingAssistantsController.cs",
               "RelativeDocumentMoniker": "University Managment System\\Controllers\\TeachingAssistantsController.cs",
               "ToolTip": "D:\\universty\\University Managment System\\University Managment System\\Controllers\\TeachingAssistantsController.cs",
               "RelativeToolTip": "University Managment System\\Controllers\\TeachingAssistantsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T16:25:15.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\universty\\University Managment System\\University Managment System\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "University Managment System\\Controllers\\UsersController.cs",
@@ -67,12 +135,11 @@
               "RelativeToolTip": "University Managment System\\Controllers\\UsersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:24:47.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T16:24:47.099Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "D:\\universty\\University Managment System\\University Managment System\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "University Managment System\\Controllers\\DepartmentsController.cs",
@@ -80,12 +147,11 @@
               "RelativeToolTip": "University Managment System\\Controllers\\DepartmentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:24:22.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T16:24:22.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\universty\\University Managment System\\University Managment System\\Models\\Student.cs",
               "RelativeDocumentMoniker": "University Managment System\\Models\\Student.cs",
@@ -93,12 +159,11 @@
               "RelativeToolTip": "University Managment System\\Models\\Student.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:23:53.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T16:23:53.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "D:\\universty\\University Managment System\\University Managment System\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "University Managment System\\Controllers\\StudentsController.cs",
@@ -106,12 +171,11 @@
               "RelativeToolTip": "University Managment System\\Controllers\\StudentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:23:47.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T16:23:47.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "ProfessorsController.cs",
               "DocumentMoniker": "D:\\universty\\University Managment System\\University Managment System\\Controllers\\ProfessorsController.cs",
               "RelativeDocumentMoniker": "University Managment System\\Controllers\\ProfessorsController.cs",
@@ -119,12 +183,11 @@
               "RelativeToolTip": "University Managment System\\Controllers\\ProfessorsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:23:05.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T16:23:05.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "D:\\universty\\University Managment System\\University Managment System\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "University Managment System\\Controllers\\CoursesController.cs",
@@ -132,12 +195,11 @@
               "RelativeToolTip": "University Managment System\\Controllers\\CoursesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:21:48.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T16:21:48.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "FacultiesController.cs",
               "DocumentMoniker": "D:\\universty\\University Managment System\\University Managment System\\Controllers\\FacultiesController.cs",
               "RelativeDocumentMoniker": "University Managment System\\Controllers\\FacultiesController.cs",
@@ -145,8 +207,7 @@
               "RelativeToolTip": "University Managment System\\Controllers\\FacultiesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:20:58.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T16:20:58.26Z"
             }
           ]
         }
